@@ -5,7 +5,7 @@
     justify-content: space-between;
     align-items: flex-start;
     /* width: 100%; */
-    box-shadow: 0px 0px 4px #333;
+    box-shadow: 0px 0px 1px #333;
 }
 
 .rooms__text{}

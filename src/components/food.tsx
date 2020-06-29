@@ -8,7 +8,7 @@ export default function Foods({}: Props): ReactElement {
     <section className="foods" style={{ marginTop: "5vh" }}>
       <div className="foods__bg"></div>
       <div className="foods__text">
-        <h4>Rooms</h4>
+        <h4>Food</h4>
         <p>
           Fresh and clean rooms.
           <br />

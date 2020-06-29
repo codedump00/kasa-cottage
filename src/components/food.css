@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: flex-start;
   /* width: 100%; */
-  box-shadow: 0px 0px 4px #333;
+  box-shadow: 0px 0px 1px #333;
 }
 
 .foods__text {
@@ -12,7 +12,7 @@
 }
 
 .foods__bg {
-  background-image: url(../assets/hotel_room.jpg);
+  background-image: url(../assets/food.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 60vw;
