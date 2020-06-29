@@ -1,0 +1,20 @@
+.rooms{
+    padding-left: 5vw;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* width: 100%; */
+    box-shadow: 0px 0px 4px #333;
+}
+
+.rooms__text{}
+
+.rooms__bg{
+    background-image: url(../assets/hotel_room.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60vw;
+    min-height: 60vh;
+    height: 100%;
+}
