@@ -3,7 +3,7 @@ import "./location.css";
 
 interface Props {}
 
-export default function Location({}: Props): ReactElement {
+export default function Location(): ReactElement {
   return (
     <div className="location__container">
       <iframe

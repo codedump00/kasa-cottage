@@ -1,4 +1,4 @@
-import React, { ReactElement, Component } from "react";
+import React, { ReactElement } from "react";
 import "./menu.css";
 import image from "../assets/food.jpg";
 import ResponsiveSlider from "./slider";
