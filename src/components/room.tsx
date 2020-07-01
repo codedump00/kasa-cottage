@@ -3,7 +3,7 @@ import "./room.css";
 
 interface Props {}
 
-export default function Rooms({}: Props): ReactElement {
+export default function Rooms(): ReactElement {
   return (
     <section className="rooms">
       <div className="rooms__text">

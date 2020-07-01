@@ -3,7 +3,7 @@ import "./nav.css";
 
 interface Props {}
 
-export default function Nav({}: Props): ReactElement {
+export default function Nav(): ReactElement {
   return (
     <header className="nav__header">
       <nav>

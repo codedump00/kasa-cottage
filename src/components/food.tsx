@@ -3,7 +3,7 @@ import "./food.css";
 
 interface Props {}
 
-export default function Foods({}: Props): ReactElement {
+export default function Foods(): ReactElement {
   return (
     <section className="foods" style={{ marginTop: "5vh" }}>
       <div className="foods__bg"></div>
