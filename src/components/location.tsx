@@ -15,6 +15,7 @@ export default function Location(): ReactElement {
         //   allowfullscreen=""
         aria-hidden="false"
         //   tabindex="0"
+        title="Google maps"
       ></iframe>
     </div>
   );
